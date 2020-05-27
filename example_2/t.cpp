@@ -7,6 +7,6 @@ using ll = long long;
 
 int main()
 {
-    cout << "Hello git" << endl;
+    cout << "Hello github" << endl;
     return 0;
 }
